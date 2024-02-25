@@ -54,5 +54,6 @@ def main():
         print(entry)
 
 if __name__ == '__main__':
+    print (f'Приклад команди для показу лише потрібних валют "python main2.py 3 --currencies EUR USD GBP"')
     main()
     
